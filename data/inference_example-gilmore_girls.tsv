@@ -1,0 +1,672 @@
+category	filename	title	file_line_no	turn_line_no	scene_id	line_type	line_no	new_line_no	speaker_label	scene_speaker_id	anno	line_text
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	0		S0	ACTION	A0	A0				OPEN AT ELDER GILMORE RESIDENCE
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	1		S0	ACTION	A1	A1				[Lorelai, Richard and Emily are sitting in the living room]
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	2	L0	S0	DIALOGUE	D0	D0	LORELAI	0	T0	Mom, I swear, it was Aunt Maureen.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	3	L1	S0	DIALOGUE	D1	D1	EMILY	1	D0	Aunt Maureen would never hike up her skirt in public.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	4	L2	S0	DIALOGUE	D2	D2	LORELAI	0	D1	She would after half a gallon of eggnog.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	5	L3	S0	DIALOGUE	D3	D3	EMILY	1	D2	Richard, who was the one who got drunk at our Christmas party and hiked up her skirt in front of the Town and Country photographer?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	6	L4	S0	DIALOGUE	D4	D4	RICHARD	2	D3	I’m sorry, did you say something?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	7	L5	S0	DIALOGUE	D5	D5	LORELAI	0	D4	I don’t know about you, Mom, but I’ve never felt so fascinating in my entire life.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	8		S0	ACTION	A2	A2				[Rory walks in]
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	9	L6	S0	DIALOGUE	D6	D6	RORY	3	T1	I’m so sorry I’m late.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	10	L6	S0	DIALOGUE	D7	D7	RORY	3	D6	Hi Grandma, Hi Grandma.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	11	L7	S0	DIALOGUE	D8	D8	RICHARD	2	D7	Hello Rory.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	12	L8	S0	DIALOGUE	D9	D9	LORELAI	0	D8	Oh, now he closes the paper.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	13	L9	S0	DIALOGUE	D10	D10	RORY	3	D9	Hey, Mom, I stopped by the bookstore on the way here.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	14	L10	S0	DIALOGUE	D11	D11	LORELAI	0	D10	You got them?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	15	L11	S0	DIALOGUE	D12	D12	RORY	3	D11	I got them!
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	16	L12	S0	DIALOGUE	D13	D13	EMILY	1	D12	Got what?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	17	L13	S0	DIALOGUE	D14	D14	LORELAI	0	D13	Rory and I are starting to plan our Europe trip.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	18	L14	S0	DIALOGUE	D15	D15	RORY	3	D14	The day after graduation, we are gone.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	19	L15	S0	DIALOGUE	D16	D16	RICHARD	2	D15	Well, that sounds very exciting.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	20	L16	S0	DIALOGUE	D17	D17	EMILY	1	D16	Lorelai, what are these?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	21	L17	S0	DIALOGUE	D18	D18	LORELAI	0	D17	Those are guidebooks.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	22	L18	S0	DIALOGUE	D19	D19	EMILY	1	D18	“Europe Through the Backdoor.”
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	23	L18	S0	DIALOGUE	D20	D20	EMILY	1	D19	“The Rough Guide to Europe.”
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	24	L18	S0	DIALOGUE	D21	D21	EMILY	1	D20	What kind of guidebooks are these?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	25	L19	S0	DIALOGUE	D22	D22	LORELAI	0	D21	The cheap kind.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	26	L20	S0	DIALOGUE	D23	D23	RORY	3	D22	They have all the good information about backpacking and staying in hostels.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	27	L21	S0	DIALOGUE	D24	D24	EMILY	1	D23	Backpacking and staying in hostels?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	28	L22	S0	DIALOGUE	D25	D25	RICHARD	2	D24	Who’s backpacking and staying in hostels?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	29	L23	S0	DIALOGUE	D26	D26	LORELAI	0	D25	We are.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	30		S0	ACTION	A3	A3				[Emily and Richard laugh]
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	31	L24	S0	DIALOGUE	D27	D27	EMILY	1	D26	No, you’re not.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	32	L25	S0	DIALOGUE	D28	D28	RICHARD	2	D27	What a ridiculous thought.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	33	L26	S0	DIALOGUE	D29	D29	RORY	3	D28	We are.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	34	L26	S0	DIALOGUE	D30	D30	RORY	3	D29	We’re going to backpack around Europe.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	35	L27	S0	DIALOGUE	D31	D31	EMILY	1	D30	Yes, I know, it’s fun to tease your grandmother, dear.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	36	L27	S0	DIALOGUE	D32	D32	EMILY	1	D31	They’re going to backpack across Europe, Richard.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	37	L28	S0	DIALOGUE	D33	D33	RICHARD	2	D32	I heard, sounds delightful.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	38	L28	S0	DIALOGUE	D34	D34	RICHARD	2	D33	Perhaps we should join them.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	39	L29	S0	DIALOGUE	D35	D35	EMILY	1	D34	That sounds wonderful.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	40	L29	S0	DIALOGUE	D36	D36	EMILY	1	D35	Tomorrow I’ll go out and buy some cutoffs.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	41	L30	S0	DIALOGUE	D37	D37	LORELAI	0	D36	Guys, we’re not kidding.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	42	L31	S0	DIALOGUE	D38	D38	EMILY	1	D37	You’re telling me you’re seriously going to traipse across Europe with your possessions strapped to your back and sleep in a room with thirty other people?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	43	L32	S0	DIALOGUE	D39	D39	LORELAI	0	D38	Yes.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	44	L33	S0	DIALOGUE	D40	D40	RICHARD	2	D39	No.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	45	L34	S0	DIALOGUE	D41	D41	RORY	3	D40	Grandpa.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	46	L35	S0	DIALOGUE	D42	D42	RICHARD	2	D41	It’s not safe.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	47	L35	S0	DIALOGUE	D43	D43	RICHARD	2	D42	I forbid it.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	48	L35	S0	DIALOGUE	D44	D44	RICHARD	2	D43	Call our travel agent.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	49	L36	S0	DIALOGUE	D45	D45	RORY	3	D44	But we want to be spontaneous.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	50	L36	S0	DIALOGUE	D46	D46	RORY	3	D45	Jump a train to Paris, head off to Spain.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	51	L37	S0	DIALOGUE	D47	D47	LORELAI	0	D46	Oh no, it’s raining in Spain.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	52	L37	S0	DIALOGUE	D48	D48	LORELAI	0	D47	But since the rain in Spain stays mainly in the plain. . .
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	53	L38	S0	DIALOGUE	D49	D49	RORY	3	D48	Looks like Italy for us!
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	54	L39	S0	DIALOGUE	D50	D50	LORELAI	0	D49	Mamma mia!
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	55	L40	S0	DIALOGUE	D51	D51	RICHARD	2	D50	You can still travel around aimlessly and stay in a decent hotel.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	56	L41	S0	DIALOGUE	D52	D52	LORELAI	0	D51	We wanna do it cheap.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	57	L42	S0	DIALOGUE	D53	D53	EMILY	1	D52	We’ll pay.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	58	L43	S0	DIALOGUE	D54	D54	LORELAI	0	D53	No.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	59	L44	S0	DIALOGUE	D55	D55	RORY	3	D54	Grandma, it’s going to be fun, really.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	60	L45	S0	DIALOGUE	D56	D56	LORELAI	0	D55	Kids do this all the time.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	61	L46	S0	DIALOGUE	D57	D57	EMILY	1	D56	Yes, but you’re not a kid, you’re a grown woman.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	62	L46	S0	DIALOGUE	D58	D58	EMILY	1	D57	What are people going to think when they see a grown woman bunking down with a bunch of twenty-year-olds?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	63	L47	S0	DIALOGUE	D59	D59	LORELAI	0	D58	Well, if the twenty-year-olds are cute, they’ll probably think, “Lucky!”
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	64	L48	S0	DIALOGUE	D60	D60	RORY	3	D59	Grandma, don’t be upset.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	65	L48	S0	DIALOGUE	D61	D61	RORY	3	D60	It really is going to be great.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	66		S0	ACTION	A4	A4				[reads from book]
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	67	L49	S0	DIALOGUE	D62	D62	EMILY	1	D61	What’s so traumatic about a night without a bed anyway?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	68	L49	S0	DIALOGUE	D63	D63	EMILY	1	D62	My survey shows those who have had the opportunity to be a refugee for a night have their perspectives broaden and actually enjoy the experience.”
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	69	L49	S0	DIALOGUE	D64	D64	EMILY	1	D63	Richard, this book is encouraging them to sleep in a park like a squirrel.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	70	L50	S0	DIALOGUE	D65	D65	LORELAI	0	D64	It’s okay, Mom.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	71	L51	S0	DIALOGUE	D66	D66	EMILY	1	D65	My first trip to Europe, I went to Paris and stayed at the Ritz.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	72	L52	S0	DIALOGUE	D67	D67	LORELAI	0	D66	Well, I tell you what, if it’ll make you happy, we’ll go to Paris and eat out of their dumpster.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	73		S0	ACTION	A5	A5				[opening credits]
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	74		S1	ACTION	A6	A6				[The construction crew is working in front of the soda shop]
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	75	L53	S1	DIALOGUE	D68	D68	TOM	0	T2	All of this goes in there.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	76	L53	S1	DIALOGUE	D69	D69	TOM	0	D68	Let’s move, we’re getting backlogged.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	77	L54	S1	DIALOGUE	D70	D70	DEAN	1	T3	Tom, I brought over the nails you asked for.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	78	L55	S1	DIALOGUE	D71	D71	TOM	0	D70	Good.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	79	L55	S1	DIALOGUE	D72	D72	TOM	0	D71	Get the guy’s lunch orders, will ya?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	80	L56	S1	DIALOGUE	D73	D73	DEAN	1	D72	Already done.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	81	L57	S1	DIALOGUE	D74	D74	TOM	0	D73	You’re a good kid, Dean.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	82	L57	S1	DIALOGUE	D75	D75	TOM	0	D74	You hardly bug me at all.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	83	L58	S1	DIALOGUE	D76	D76	DEAN	1	D75	High praise.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	84	L59	S1	DIALOGUE	D77	D77	TOM	0	D76	Yeah, yeah, go, get the food.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	85	L59	S1	DIALOGUE	D78	D78	TOM	0	D77	And don’t forget the pickles.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	86	L60	S1	DIALOGUE	D79	D79	DEAN	1	D78	I wouldn’t dare.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	87	L61	S1	DIALOGUE	D80	D80	TOM	0	T4	Oh, what do I gotta say to get this crap inside where it belongs?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	88	L61	S1	DIALOGUE	D81	D81	TOM	0	D80	You got a language I’m not privy to?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	89	L61	S1	DIALOGUE	D82	D82	TOM	0	D81	Cause I’m a fast learner.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	90	L62	S1	DIALOGUE	D83	D83	MISS PATTY	2	T5	Dean-o, Dean-o, Dean-o. If you grow any taller, I’m gonna have to get myself some mountain climbing equipment.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	91	L63	S1	DIALOGUE	D84	D84	DEAN	1	D83	You’re getting dangerous to even walk near, you know that, Patty.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	92	L64	S1	DIALOGUE	D85	D85	MISS PATTY	2	D84	I’ve been told.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	93	L65	S1	DIALOGUE	D86	D86	DEAN	1	T6	You looking for Mr. Doose?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	94	L66	S1	DIALOGUE	D87	D87	MISS PATTY	2	D86	Oh, precious, no.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	95	L66	S1	DIALOGUE	D88	D88	MISS PATTY	2	D87	I’m just looking.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	96	L67	S1	DIALOGUE	D89	D89	DEAN	1	D88	Ah.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	97	L68	S1	DIALOGUE	D90	D90	MISS PATTY	2	D89	Yeah.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	98	L69	S1	DIALOGUE	D91	D91	DEAN	1	D90	Okay.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	99	L69	S1	DIALOGUE	D92	D92	DEAN	1	D91	Well, uh, enjoy.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	100	L70	S1	DIALOGUE	D93	D93	MISS PATTY	2	D92	Oh, I always do.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	101	L70	S1	DIALOGUE	D94	D94	MISS PATTY	2	D93	Ahh.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	102		S2	ACTION	A7	A7				[Luke is leaning on the counter, reading a book]
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	103	L71	S2	DIALOGUE	D95	D95	JESS	0	T7	Move.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	104	L72	S2	DIALOGUE	D96	D96	LUKE	1	D95	What?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	105	L72	S2	DIALOGUE	D97	D97	LUKE	1	D96	Oh, sorry.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	106	L73	S2	DIALOGUE	D98	D98	JESS	0	D97	What’s that?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	107	L74	S2	DIALOGUE	D99	D99	LUKE	1	D98	It’s nothing.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	108	L75	S2	DIALOGUE	D100	D100	JESS	0	D99	You reading?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	109	L76	S2	DIALOGUE	D101	D101	LUKE	1	D100	It’s nothing.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	110	L77	S2	DIALOGUE	D102	D102	JESS	0	D101	I never see you reading.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	111	L78	S2	DIALOGUE	D103	D103	LUKE	1	D102	Will you just. .
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	112	L78	S2	DIALOGUE	D104	D104	LUKE	1	D103	.I read.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	113	L79	S2	DIALOGUE	D105	D105	JESS	0	D104	What are you reading?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	114	L80	S2	DIALOGUE	D106	D106	LUKE	1	D105	I read, I read.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	115	L81	S2	DIALOGUE	D107	D107	JESS	0	D106	What do you read?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	116	L82	S2	DIALOGUE	D108	D108	LUKE	1	D107	Invoices, expiration dates.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	117	L83	S2	DIALOGUE	D109	D109	JESS	0	D108	I stand corrected.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	118		S2	ACTION	A8	A8				[takes Luke’s book]
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	119	L84	S2	DIALOGUE	D110	D110	LUKE	1	T8	Hey!
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	120	L85	S2	DIALOGUE	D111	D111	JESS	0	D110	“Hidden Romantic Gems of the Restaurant World.”
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	121	L85	S2	DIALOGUE	D112	D112	JESS	0	D111	Well, well, well.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	122	L86	S2	DIALOGUE	D113	D113	LUKE	1	D112	I would like my property back, please.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	123	L87	S2	DIALOGUE	D114	D114	JESS	0	D113	Planning something special?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	124	L88	S2	DIALOGUE	D115	D115	LUKE	1	D114	No, nothing special.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	125	L88	S2	DIALOGUE	D116	D116	LUKE	1	D115	I’m just taking Nicole to dinner on Friday and I wanna find a place.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	126	L89	S2	DIALOGUE	D117	D117	JESS	0	D116	A place you don’t normally go to?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	127	L90	S2	DIALOGUE	D118	D118	LUKE	1	D117	Yes.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	128	L91	S2	DIALOGUE	D119	D119	JESS	0	D118	So a special place.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	129	L92	S2	DIALOGUE	D120	D120	LUKE	1	D119	Will you stop saying that word, please?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	130	L92	S2	DIALOGUE	D121	D121	LUKE	1	D120	And yes.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	131	L93	S2	DIALOGUE	D122	D122	JESS	0	D121	Find anything good?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	132	L94	S2	DIALOGUE	D123	D123	LUKE	1	D122	Every single description in here talks about tablecloths and dish design, nothing about the food.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	133	L95	S2	DIALOGUE	D124	D124	JESS	0	D123	You are really going through an awful lot for this lawyer.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	134	L96	S2	DIALOGUE	D125	D125	LUKE	1	D124	She’s not a lawyer.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	135	L96	S2	DIALOGUE	D126	D126	LUKE	1	D125	I mean, yes, she’s a lawyer, but she’s also a lady, and a very nice lady who probably expects good food with her fancy plates and sparse yet elegant décor.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	136	L97	S2	DIALOGUE	D127	D127	JESS	0	T9	You’re pathetic when you’re in love.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	137	L98	S2	DIALOGUE	D128	D128	LUKE	1	D127	I’m not in love, I’m dating.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	138	L98	S2	DIALOGUE	D129	D129	LUKE	1	D128	This is what you do when you’re dating.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	139	L99	S2	DIALOGUE	D130	D130	JESS	0	D129	It’s not what I do when I’m dating.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	140	L100	S2	DIALOGUE	D131	D131	LUKE	1	D130	Well, Rory’s a lucky girl.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	141	L100	S2	DIALOGUE	D132	D132	LUKE	1	D131	Work.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	142	L100	S2	DIALOGUE	D133	D133	LUKE	1	D132	I’m going upstairs.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	143	L101	S2	DIALOGUE	D134	D134	JESS	0	D133	Fine, but if a horse-drawn carriage shows up here, my throwing up will be eternal.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	144		S2	ACTION	A9	A9				[Dean walks up to the counter]
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	145	L102	S2	DIALOGUE	D135	D135	DEAN	2	T10	I gotta place an order.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	146	L103	S2	DIALOGUE	D136	D136	JESS	0	D135	Talk into the clown.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	147	L104	S2	DIALOGUE	D137	D137	DEAN	2	D136	I am.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	148	L105	S2	DIALOGUE	D138	D138	JESS	0	D137	What do you want?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	149	L106	S2	DIALOGUE	D139	D139	DEAN	2	D138	Six burgers, three with cheese -- two cheddar, one Swiss.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	150	L106	S2	DIALOGUE	D140	D140	DEAN	2	D139	Two plain, one with chili, cheese and onions on the side.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	151	L106	S2	DIALOGUE	D141	D141	DEAN	2	D140	Your memory’s that good?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	152	L107	S2	DIALOGUE	D142	D142	JESS	0	D141	You’re screwing with me.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	153	L108	S2	DIALOGUE	D143	D143	DEAN	2	D142	I’m placing an order.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	154	L109	S2	DIALOGUE	D144	D144	JESS	0	D143	For all of Connecticut?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	155	L110	S2	DIALOGUE	D145	D145	DEAN	2	D144	For the construction crew next door.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	156	L111	S2	DIALOGUE	D146	D146	JESS	0	D145	Oh, you’re Taylor’s errand boy now.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	157	L112	S2	DIALOGUE	D147	D147	DEAN	2	D146	And you’re Taylor’s waitress.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	158	L113	S2	DIALOGUE	D148	D148	JESS	0	D147	Say that a little closer.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	159	L114	S2	DIALOGUE	D149	D149	DEAN	2	D148	I thought you had a girlfriend.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	160	L115	S2	DIALOGUE	D150	D150	JESS	0	D149	Give me your order and get out.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	161	L116	S2	DIALOGUE	D151	D151	DEAN	2	D150	Service with a smile.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	162	L116	S2	DIALOGUE	D152	D152	DEAN	2	D151	Uh, six burgers, three cheese -- two cheddar, one Swiss.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	163	L116	S2	DIALOGUE	D153	D153	DEAN	2	D152	Two plain burgers, one chili burger with cheese and onions on the side.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	164	L116	S2	DIALOGUE	D154	D154	DEAN	2	D153	Three ham on ryes - one mayo, one mustard, one combo.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	165	L116	S2	DIALOGUE	D155	D155	DEAN	2	D154	A combo means mustard and 
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	166	L117	S2	DIALOGUE	D156	D156	JESS	0	D155	I know what a combo means.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	167	L118	S2	DIALOGUE	D157	D157	DEAN	2	D156	Sorry, guess that confused look is just how your face is.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	168	L119	S2	DIALOGUE	D158	D158	JESS	0	D157	Do you wanna talk about this outside?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	169	L120	S2	DIALOGUE	D159	D159	DEAN	2	D158	Just as soon as I’m finished.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	170	L120	S2	DIALOGUE	D160	D160	DEAN	2	D159	Uh, four hot dogs.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	171	L120	S2	DIALOGUE	D161	D161	DEAN	2	D160	Two egg salads on white.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	172	L120	S2	DIALOGUE	D162	D162	DEAN	2	D161	One chicken salad on wheat.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	173	L120	S2	DIALOGUE	D163	D163	DEAN	2	D162	A chef’s salad with ranch.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	174	L120	S2	DIALOGUE	D164	D164	DEAN	2	D163	Five fries.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	175	L120	S2	DIALOGUE	D165	D165	DEAN	2	D164	Five onion rings.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	176	L120	S2	DIALOGUE	D166	D166	DEAN	2	D165	Two chips.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	177	L120	S2	DIALOGUE	D167	D167	DEAN	2	D166	Extra pickles.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	178	L121	S2	DIALOGUE	D168	D168	JESS	0	D167	On what?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	179	L122	S2	DIALOGUE	D169	D169	DEAN	2	D168	Excuse me?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	180	L123	S2	DIALOGUE	D170	D170	JESS	0	D169	What are the extra pickles on?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	181	L124	S2	DIALOGUE	D171	D171	DEAN	2	D170	On the side.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	182	L125	S2	DIALOGUE	D172	D172	JESS	0	D171	On the side of what?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	183	L125	S2	DIALOGUE	D173	D173	JESS	0	D172	On the side of the burgers, on the side of the sandwiches, or on the side of the road where the ditch I’m gonna dump your body into is?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	184	L126	S2	DIALOGUE	D174	D174	DEAN	2	D173	Just make sure there’s enough for everyone.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	185	L127	S2	DIALOGUE	D175	D175	JESS	0	D174	Fine.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	186	L128	S2	DIALOGUE	D176	D176	DEAN	2	D175	Aren’t you gonna read it back?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	187	L129	S2	DIALOGUE	D177	D177	JESS	0	D176	Nope.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	188	L130	S2	DIALOGUE	D178	D178	DEAN	2	D177	Okay, but these men were hired by Taylor, which means if they aren’t satisfied with their orders, they will send them back.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	189	L130	S2	DIALOGUE	D179	D179	DEAN	2	D178	And they will continue to send them back until they are happy, which means you could be making this order until you die.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	190	L131	S2	DIALOGUE	D180	D180	JESS	0	D179	Six burgers, three with cheese  two cheddar, one Swiss.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	191	L132	S2	DIALOGUE	D181	D181	DEAN	2	D180	Slower, please.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	192	L132	S2	DIALOGUE	D182	D182	DEAN	2	D181	I’m checking them off as we go.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	193	L133	S2	DIALOGUE	D183	D183	JESS	0	D182	Two plain burgers, one chili with cheese and onion on the side.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	194		S3	ACTION	A10	A10				[Lorelai is at the front desk on the phone]
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	195		S3	ACTION	A11	A11				[on phone]
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	196	L134	S3	DIALOGUE	D184	D184	LORELAI	0	T11	Hey, it’s your party, we just want you to be happy.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	197	L134	S3	DIALOGUE	D185	D185	LORELAI	0	D184	Okay.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	198	L134	S3	DIALOGUE	D186	D186	LORELAI	0	D185	No problem.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	199	L134	S3	DIALOGUE	D187	D187	LORELAI	0	D186	All right, I’ll talk to you then.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	200		S3	ACTION	A12	A12				[hangs up]
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	201	L134	S3	DIALOGUE	D188	D188	LORELAI	0	T12	Ridgemont called.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	202	L135	S3	DIALOGUE	D189	D189	MICHEL	1	D188	No.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	203	L136	S3	DIALOGUE	D190	D190	LORELAI	0	D189	He’s changing his mind about the theme for his retirement party again.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	204	L137	S3	DIALOGUE	D191	D191	MICHEL	1	D190	No!
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	205	L138	S3	DIALOGUE	D192	D192	LORELAI	0	D191	We have to call the florist.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	206	L139	S3	DIALOGUE	D193	D193	MICHEL	1	D192	But this is the fourth theme he’s picked.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	207	L139	S3	DIALOGUE	D194	D194	MICHEL	1	D193	He had the fishing one, and the Kentucky Derby with the chocolate horsies, and the Tibet with the Richard Gere pictures everywhere.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	208	L140	S3	DIALOGUE	D195	D195	LORELAI	0	D194	I know.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	209	L141	S3	DIALOGUE	D196	D196	MICHEL	1	D195	And he promised that the golf would be the last one.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	210	L142	S3	DIALOGUE	D197	D197	LORELAI	0	D196	Well, he decided that golf was dull and he doesn’t want to be remembered as dull.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	211	L143	S3	DIALOGUE	D198	D198	MICHEL	1	D197	Would he like to be remembered as limping, because I can be a fabulous help with that.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	212		S3	ACTION	A13	A13				[They walk to the dining room, where workers are decorating the room in a golf theme]
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	213	L144	S3	DIALOGUE	D199	D199	LORELAI	0	T13	Hey, guys. . .
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	214		S3	ACTION	A14	A14				[Everyone groans]
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	215	L144	S3	DIALOGUE	D200	D200	LORELAI	0	D199	I’m sorry, I’m really sorry.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	216	L145	S3	DIALOGUE	D201	D201	MICHEL	1	T14	Here’s an idea  it’s a retirement party, yes?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	217	L145	S3	DIALOGUE	D202	D202	MICHEL	1	D201	Okay.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	218	L145	S3	DIALOGUE	D203	D203	MICHEL	1	D202	So what happens after you retire?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	219	L145	S3	DIALOGUE	D204	D204	MICHEL	1	D203	You die.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	220	L146	S3	DIALOGUE	D205	D205	LORELAI	0	T15	He changed his mind.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	221	L147	S3	DIALOGUE	D206	D206	LANE	2	D205	Again?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	222	L148	S3	DIALOGUE	D207	D207	MICHEL	1	D204	So, why don’t we dig a big hole, throw him in, hand everybody a shovel, they take turns covering him up.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	223	L148	S3	DIALOGUE	D208	D208	MICHEL	1	D207	We go inside, have dinner, the wife gets used to eating alone. . .
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	224	L149	S3	DIALOGUE	D209	D209	LORELAI	0	D208	We are not going to bury him alive.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	225	L150	S3	DIALOGUE	D210	D210	MICHEL	1	D209	Well, fine then.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	226	L150	S3	DIALOGUE	D211	D211	MICHEL	1	D210	What is the new theme?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	227	L151	S3	DIALOGUE	D212	D212	LORELAI	0	D211	He is calling me back at four.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	228	L152	S3	DIALOGUE	D213	D213	RORY	3	T16	I got the flags and. .
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	230	L152	S3	DIALOGUE	D215	D214	RORY	3	D213	changed his mind again.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	231	L153	S3	DIALOGUE	D216	D215	LANE	2	D214	He’s worse than my mother at the Glory of Easter T-shirt stand.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	232	L154	S3	DIALOGUE	D217	D216	LORELAI	0	D215	You kept the receipt, I hope.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	233	L155	S3	DIALOGUE	D218	D217	RORY	3	D216	Yup.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	234	L156	S3	DIALOGUE	D219	D218	LORELAI	0	T17	Good God, this party is gonna be the death of me.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	235	L157	S3	DIALOGUE	D220	D219	MICHEL	1	D218	Or someone.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	236	L158	S3	DIALOGUE	D221	D220	LORELAI	0	D219	Go call the florist.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	237	L159	S3	DIALOGUE	D222	D221	RORY	3	D220	You’re stressed.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	238	L160	S3	DIALOGUE	D223	D222	LORELAI	0	D221	You’re observant.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	239	L161	S3	DIALOGUE	D224	D223	RORY	3	T18	Well, I was going to save this for later, but you look like you need it now.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	240	L162	S3	DIALOGUE	D225	D224	LORELAI	0	D223	What’s that?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	241	L163	S3	DIALOGUE	D226	D225	RORY	3	D224	I have been cordially invited to Sherry Tinsdale’s C-section.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	242	L164	S3	DIALOGUE	D227	D226	LORELAI	0	D225	No way!
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	243		S3	ACTION	A15	A15				[reads from invitation]
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	244	L165	S3	DIALOGUE	D228	D227	RORY	3	D226	Friday, February seventh, six o’clock p.m. Join the girls for a toast, a hug, a wave to the mommy as they wheel her off, dinner at Sushi Sushi, and then back to the hospital for a formal viewing of brand-new baby Georgia.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	245	L165	S3	DIALOGUE	D229	D228	RORY	3	D227	RSVP at your earliest convenience.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	246	L165	S3	DIALOGUE	D230	D229	RORY	3	D228	P.S. -- gifts are not necessary, but always appreciated.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	247	L166	S3	DIALOGUE	D231	D230	LORELAI	0	D229	I don’t even know where to start.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	248	L167	S3	DIALOGUE	D232	D231	RORY	3	D230	I knew you would like it.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	249	L168	S3	DIALOGUE	D233	D232	LORELAI	0	D231	You have to RSVP to a C-section.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	250	L169	S3	DIALOGUE	D234	D233	RORY	3	D232	And bring a gift.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	251	L170	S3	DIALOGUE	D235	D234	LORELAI	0	D233	I wonder if Laura Mercier makes Demerol.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	252	L171	S3	DIALOGUE	D236	D235	RORY	3	D234	You wanna keep it?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	253	L172	S3	DIALOGUE	D237	D236	LORELAI	0	D235	Oh, yes, please.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	254	L173	S3	DIALOGUE	D238	D237	RORY	3	D236	But don’t lose it.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	255	L173	S3	DIALOGUE	D239	D238	RORY	3	D237	I need the phone number.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	256	L174	S3	DIALOGUE	D240	D239	LORELAI	0	T19	So, are you going?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	257	L175	S3	DIALOGUE	D241	D240	RORY	3	D239	Well, I don’t know.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	258	L175	S3	DIALOGUE	D242	D241	RORY	3	D240	I mean, I know it’s weird, but I kind of wanna see Georgia.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	259	L175	S3	DIALOGUE	D243	D242	RORY	3	D241	She’s sort of my sister.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	260	L176	S3	DIALOGUE	D244	D243	LORELAI	0	D242	She’s more than sort of your sister.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	261	L177	S3	DIALOGUE	D245	D244	RORY	3	D243	I just think it would be cool to meet her the night that she’s born.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	262	L177	S3	DIALOGUE	D246	D245	RORY	3	D244	It’s a good story to talk about.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	263	L178	S3	DIALOGUE	D247	D246	LORELAI	0	D245	You should go.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	264	L179	S3	DIALOGUE	D248	D247	RORY	3	D246	I should, shouldn’t I?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	265	L180	S3	DIALOGUE	D249	D248	LORELAI	0	D247	And you should take pictures and wear a hidden microphone cause I wanna hear everything.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	266	L181	S3	DIALOGUE	D250	D249	RORY	3	D248	I’ll see what I can do.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	267	L182	S3	DIALOGUE	D251	D250	LORELAI	0	T20	Oh, shoot.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	268		S3	ACTION	A16	A16				[Lorelai walks to the kitchen, where Sookie is frosting a golf ball cake]
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	269	L182	S3	DIALOGUE	D252	D251	LORELAI	0	D250	Sook. . .
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	270		S3	ACTION	A17	A17				[Sookie flips the cake into the garbage can]
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	271	L183	S3	DIALOGUE	D253	D252	SOOKIE	4	D251	God!
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	272		S4	ACTION	A18	A18				[Lorelai and Rory walk up to the house with boxes of Beanie Babies]
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	273	L184	S4	DIALOGUE	D254	D253	RORY	0	T21	I just need to go on record that a grown man should not throw himself a Beanie Baby retirement party.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	274	L185	S4	DIALOGUE	D255	D254	LORELAI	1	D253	Just hold your breath this one actually takes.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	275	L186	S4	DIALOGUE	D256	D255	RORY	0	D254	And how is Sookie supposed to plan a Beanie Baby menu?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	276	L187	S4	DIALOGUE	D257	D256	LORELAI	1	D255	Lots of beans.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	277	L188	S4	DIALOGUE	D258	D257	RORY	0	D256	I think this is ridiculous.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	278	L189	S4	DIALOGUE	D259	D258	LORELAI	1	D257	Angel face, you need to learn that there are going to be times in your life when you have to do ridiculous things for money.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	279	L189	S4	DIALOGUE	D260	D259	LORELAI	1	D258	If you’re Adrian Zmed, that includes everything that ever happens in your whole career.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	280		S4	ACTION	A19	A19				[sees a box on the porch]
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	281	L189	S4	DIALOGUE	D261	D260	LORELAI	1	T22	Oh Rory, come on.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	282	L189	S4	DIALOGUE	D262	D261	LORELAI	1	D260	Did you order from Amazon again?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	283	L189	S4	DIALOGUE	D263	D262	LORELAI	1	D261	‘Cause we’re going to get your books their own house.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	284	L190	S4	DIALOGUE	D264	D263	RORY	0	D262	I didn’t, I swear.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	285	L191	S4	DIALOGUE	D265	D264	LORELAI	1	D263	It’s from my mother.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	286	L192	S4	DIALOGUE	D266	D265	RORY	0	D264	What is it?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	287	L193	S4	DIALOGUE	D267	D266	LORELAI	1	D265	It’s heavy.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	288	L193	S4	DIALOGUE	D268	D267	LORELAI	1	D266	Must be her hopes and dreams for me.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	289	L194	S4	DIALOGUE	D269	D268	RORY	0	D267	I thought she discarded those years ago.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	290		S4	ACTION	A20	A20				[they walk into the house]
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	291	L195	S4	DIALOGUE	D270	D269	LORELAI	1	T23	Just drop the Beanies by the door.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	292		S4	ACTION	A21	A21				[reads note attached to the box]
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	293	L195	S4	DIALOGUE	D271	D270	LORELAI	1	T24	“Girls, here are some travel books I stumbled across in your father’s study.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	294	L195	S4	DIALOGUE	D272	D271	LORELAI	1	D270	I thought they could help in the planning of your European adventure.”
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	295	L195	S4	DIALOGUE	D273	D272	LORELAI	1	D271	She’s insane.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	296	L196	S4	DIALOGUE	D274	D273	RORY	0	D272	We have travel books.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	297	L197	S4	DIALOGUE	D275	D274	LORELAI	1	D273	No, sweetie, these aren’t our kind of travel books.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	298	L197	S4	DIALOGUE	D276	D275	LORELAI	1	D274	These are Paris and Nicky Hilton’s kind of travel books.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	299		S4	ACTION	A22	A22				[pulls some books out of the box]
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	300	L198	S4	DIALOGUE	D277	D276	RORY	0	D275	“Selected Hotels of Europe,” “Hotels, Restaurants and Inns of Great Britain and Ireland, 1986”, “Myra Waldo’s Travel and Motoring Guide to Europe, ‘78.”
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	301	L199	S4	DIALOGUE	D278	D277	LORELAI	1	D276	Wow, these will be an enormous help in planning our trip.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	302	L199	S4	DIALOGUE	D279	D278	LORELAI	1	D277	Hey, you wanna go see the Berlin Wall?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	303	L200	S4	DIALOGUE	D280	D279	RORY	0	D278	Sounds great.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	304	L201	S4	DIALOGUE	D281	D280	LORELAI	1	D279	My God, I remember these books.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	305	L201	S4	DIALOGUE	D282	D281	LORELAI	1	D280	I think the only person in my house who ever read them was me.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	306	L202	S4	DIALOGUE	D283	D282	RORY	0	D281	This hotel is five hundred dollars a night.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	307	L203	S4	DIALOGUE	D284	D283	LORELAI	1	D282	Five hundred dollars a night twenty years ago.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	308	L204	S4	DIALOGUE	D285	D284	RORY	0	D283	What could a hotel possibly have that would make it five hundred dollars a night?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	309	L205	S4	DIALOGUE	D286	D285	LORELAI	1	D284	An English menu?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	310		S4	ACTION	A23	A23				FLASHBACK  ELDER GILMORE RESIDENCE
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	311		S4	ACTION	A24	A24				[Young Lorelai and Christopher walk through the front door]
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	312	L205	S4	DIALOGUE	D287	D286	LORELAI	1	T25	Christopher, stop it, I’m trying to open the door.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	313	L205	S4	DIALOGUE	D288	D287	LORELAI	1	D286	Graceful and lovely they enter.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	314	L206	S4	DIALOGUE	D289	D288	CHRISTOPHER	2	T26	Is she home?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	315	L207	S4	DIALOGUE	D290	D289	LORELAI	1	D288	I don’t know.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	316	L207	S4	DIALOGUE	D291	D290	LORELAI	1	D289	Mom, are you home?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	317	L208	S4	DIALOGUE	D292	D291	CHRISTOPHER	2	D290	Mom, are you home?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	318	L209	S4	DIALOGUE	D293	D292	LORELAI	1	D291	Shh, she’ll hear you.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	319	L210	S4	DIALOGUE	D294	D293	CHRISTOPHER	2	D292	So, she likes me.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	320	L211	S4	DIALOGUE	D295	D294	LORELAI	1	D293	Oh, that’s right.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	321	L211	S4	DIALOGUE	D296	D295	LORELAI	1	D294	Mom, it’s me, Lorelai, I’m home!
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	322	L211	S4	DIALOGUE	D297	D296	LORELAI	1	D295	I’m home
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	323	L211	S4	DIALOGUE	D298	D297	LORELAI	1	D296	and I’m taking my sweater off.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	324	L211	S4	DIALOGUE	D299	D298	LORELAI	1	D297	I’m taking my sweater off and dropping it on the floor.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	325	L211	S4	DIALOGUE	D300	D299	LORELAI	1	D298	I’m dropping it on the floor and walking away from it.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	326	L211	S4	DIALOGUE	D301	D300	LORELAI	1	D299	I’m walking away from it and leaving it on the floor, and in two years I’m gonna register Democrat.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	327	L211	S4	DIALOGUE	D302	D301	LORELAI	1	D300	Looks like no Emily.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	328	L212	S4	DIALOGUE	D303	D302	CHRISTOPHER	2	T27	Where’s Sofia?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	329	L213	S4	DIALOGUE	D304	D303	LORELAI	1	D302	Fired.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	330	L214	S4	DIALOGUE	D305	D304	CHRISTOPHER	2	D303	Already.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	331	L215	S4	DIALOGUE	D306	D305	LORELAI	1	D304	She touched the Baccarat unicorn.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	332	L216	S4	DIALOGUE	D307	D306	CHRISTOPHER	2	D305	My God, is she insane?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	333	L217	S4	DIALOGUE	D308	D307	LORELAI	1	D306	Apparently so.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	334	L218	S4	DIALOGUE	D309	D308	CHRISTOPHER	2	T28	Okay, so, to recap, there’s no Emily and there’s no Sofia.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	335	L219	S4	DIALOGUE	D310	D309	LORELAI	1	D308	And there’s no supervision whatsoever.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	336	L219	S4	DIALOGUE	D311	D310	LORELAI	1	D309	What will we do?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	337	L220	S4	DIALOGUE	D312	D311	CHRISTOPHER	2	D310	Let’s celebrate.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	338	L221	S4	DIALOGUE	D313	D312	LORELAI	1	D311	Celebrate what?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	339	L222	S4	DIALOGUE	D314	D313	CHRISTOPHER	2	D312	No more midterms.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	340	L223	S4	DIALOGUE	D315	D314	LORELAI	1	D313	Hear, hear.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	341	L224	S4	DIALOGUE	D316	D315	CHRISTOPHER	2	D314	Okay, I say that we drink to it.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	342	L225	S4	DIALOGUE	D317	D316	LORELAI	1	D315	Hear, hear.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	343	L226	S4	DIALOGUE	D318	D317	CHRISTOPHER	2	D316	Scotch, vodka, or gin?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	344	L227	S4	DIALOGUE	D319	D318	LORELAI	1	D317	Hear, hear.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	345	L228	S4	DIALOGUE	D320	D319	CHRISTOPHER	2	D318	Okay.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	346	L229	S4	DIALOGUE	D321	D320	LORELAI	1	D319	And put a cherry in it.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	347	L229	S4	DIALOGUE	D322	D321	LORELAI	1	T29	It looks like the Gilmores are planning a trip again.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	348	L230	S4	DIALOGUE	D323	D322	CHRISTOPHER	2	D321	Where to this time?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	349	L231	S4	DIALOGUE	D324	D323	LORELAI	1	D322	Someplace fabulous where they’ll stay at a fancy hotel with a lot of other rich Americans so they won’t have to talk to anyone who actually lives in that country.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	350	L232	S4	DIALOGUE	D325	D324	CHRISTOPHER	2	D323	“Myra Waldo’s Travel and Motoring Guide to Europe.”
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	351	L232	S4	DIALOGUE	D326	D325	CHRISTOPHER	2	D324	Hello Myra.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	352	L233	S4	DIALOGUE	D327	D326	LORELAI	1	D325	Oh God, I hope they go over Christmas.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	353	L233	S4	DIALOGUE	D328	D327	LORELAI	1	D326	That would be as holly jolly as it gets.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	354	L233	S4	DIALOGUE	D329	D328	LORELAI	1	D320	Smooth.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	355	L234	S4	DIALOGUE	D330	D329	CHRISTOPHER	2	T30	Hey, guess what I decided  I’m not gonna go to college.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	356	L235	S4	DIALOGUE	D331	D330	LORELAI	1	D329	Are you serious?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	357	L236	S4	DIALOGUE	D332	D331	CHRISTOPHER	2	D330	I’m taking a year and I’m going to Europe.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	358	L236	S4	DIALOGUE	D333	D332	CHRISTOPHER	2	D331	I’m gonna backpack, train it, sleep on a bench, see the world.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	359	L237	S4	DIALOGUE	D334	D333	LORELAI	1	D332	And you’ve told Straub and Francine about your big plans, I’m sure.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	360	L238	S4	DIALOGUE	D335	D334	CHRISTOPHER	2	D333	Ah, it doesn’t matter.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	361	L239	S4	DIALOGUE	D336	D335	LORELAI	1	D334	Mmhmm.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	362	L240	S4	DIALOGUE	D337	D336	CHRISTOPHER	2	D335	I’m outta here the second that diploma’s in my hand.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	363	L241	S4	DIALOGUE	D338	D337	LORELAI	1	D336	Sounds good.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	364	L242	S4	DIALOGUE	D339	D338	CHRISTOPHER	2	D337	You’re coming with me.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	365	L243	S4	DIALOGUE	D340	D339	LORELAI	1	D338	Oh, I am?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	366	L244	S4	DIALOGUE	D341	D340	CHRISTOPHER	2	D339	Yup.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	367	L245	S4	DIALOGUE	D342	D341	LORELAI	1	D340	I’m sleeping on a bench?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	368	L245	S4	DIALOGUE	D343	D342	LORELAI	1	D341	Okay, how does that picture look to you, cause to me it looks like a big no.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	369	L246	S4	DIALOGUE	D344	D343	CHRISTOPHER	2	D342	Fine, you we get a room for, and then I’ll just sleep on the bench outside.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	370	L247	S4	DIALOGUE	D345	D344	LORELAI	1	D343	Much better arrangement.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	371	L248	S4	DIALOGUE	D346	D345	CHRISTOPHER	2	D344	So you’ll go?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	372	L249	S4	DIALOGUE	D347	D346	LORELAI	1	D345	Christopher, you’re supposed to go to college.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	373	L249	S4	DIALOGUE	D348	D347	LORELAI	1	D346	I’m supposed to go to college.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	374	L249	S4	DIALOGUE	D349	D348	LORELAI	1	D347	Then you’re supposed to join your dad’s firm where you’ll get a corner office and big stick to shove up your butt.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	375	L250	S4	DIALOGUE	D350	D349	CHRISTOPHER	2	D348	Change of plans.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	376	L251	S4	DIALOGUE	D351	D350	LORELAI	1	D349	You can’t just change the plans.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	377	L251	S4	DIALOGUE	D352	D351	LORELAI	1	D350	The plans came over on the Mayflower.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	378	L252	S4	DIALOGUE	D353	D352	CHRISTOPHER	2	D351	Come on, Lor.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	379	L252	S4	DIALOGUE	D354	D353	CHRISTOPHER	2	D352	Let’s get out of here, let’s get away from this place.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	380	L252	S4	DIALOGUE	D355	D354	CHRISTOPHER	2	D353	Let’s take Myra and just bolt.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	381	L252	S4	DIALOGUE	D356	D355	CHRISTOPHER	2	D354	Leave a note on the dining room table.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	382	L252	S4	DIALOGUE	D357	D356	CHRISTOPHER	2	D355	“Dear Richard and Emily, I don’t belong here, I’m going somewhere else, I’ll call you when I get there.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	383	L252	S4	DIALOGUE	D358	D357	CHRISTOPHER	2	D356	Love, Lorelai.’
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	384	L252	S4	DIALOGUE	D359	D358	CHRISTOPHER	2	D357	How does that sound?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	385	L253	S4	DIALOGUE	D360	D359	LORELAI	1	D358	Well, the word “whoopee” comes to mind.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	386	L254	S4	DIALOGUE	D361	D360	CHRISTOPHER	2	D359	So, then, it’s a plan.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	387	L255	S4	DIALOGUE	D362	D361	LORELAI	1	D360	It’s a plan.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	388		S5	ACTION	A25	A25				[Lorelai and Rory are still looking through the guidebooks]
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	389	L256	S5	DIALOGUE	D363	D362	RORY	0	T31	Hey, I want to sleep amongst thirteenth century tapestries and chocolates made by local artisans.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	390	L257	S5	DIALOGUE	D364	D363	LORELAI	1	D362	Okay, then, it’s settled.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	391	L257	S5	DIALOGUE	D365	D364	LORELAI	1	D363	We’re not staying at any place that wasn’t built for Napoleon the third’s doctor or doesn’t have a Chagall in the bathroom.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	392	L258	S5	DIALOGUE	D366	D365	RORY	0	D364	Hear, hear.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	393	L259	S5	DIALOGUE	D367	D366	LORELAI	1	D365	Now we just have to figure out how we’re gonna pay for it.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	394	L259	S5	DIALOGUE	D368	D367	LORELAI	1	D366	Hey, how good’s your organ grinding?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	395		S6	ACTION	A26	A26				[Students are gathered in a meeting room]
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	396	L260	S6	DIALOGUE	D369	D368	MADELINE	0	T32	I called last night and I asked her to talk me through the Korean War and she said she was busy.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	397	L261	S6	DIALOGUE	D370	D369	LOUISE	1	D368	Oh, she’s definitely got a boyfriend.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	398	L262	S6	DIALOGUE	D371	D370	MADELINE	0	D369	I know.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	399	L263	S6	DIALOGUE	D372	D371	LOUISE	1	D370	Well, I for one think it’s about time.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	400	L264	S6	DIALOGUE	D373	D372	MADELINE	0	D371	I agree.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	401	L265	S6	DIALOGUE	D374	D373	LOUISE	1	D372	It wasn’t healthy, all that non-dating.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	402	L266	S6	DIALOGUE	D375	D374	MADELINE	0	D373	It definitely didn’t help that whole skin thing she was going through.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	403	L267	S6	DIALOGUE	D376	D375	LOUISE	1	D374	How come she didn’t tell us?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	404	L268	S6	DIALOGUE	D377	D376	MADELINE	0	D375	I think she just wanted to make sure it was gonna take.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	405	L269	S6	DIALOGUE	D378	D377	LOUISE	1	D376	So, tell us, what’s this Jamie like?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	406	L270	S6	DIALOGUE	D379	D378	RORY	2	D377	You know, I really don’t feel like talking about Paris right now.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	407	L270	S6	DIALOGUE	D380	D379	RORY	2	D378	Or ever.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	408	L271	S6	DIALOGUE	D381	D380	MADELINE	0	D379	Oh, come on, you know him, we don’t.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	409	L272	S6	DIALOGUE	D382	D381	LOUISE	1	D380	Is he sexy?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	410	L273	S6	DIALOGUE	D383	D382	MADELINE	0	D381	Does he have a good car?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	411	L274	S6	DIALOGUE	D384	D383	LOUISE	1	D382	How’s the trust fund?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	412	L275	S6	DIALOGUE	D385	D384	MADELINE	0	D383	How’s the profile?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	413	L276	S6	DIALOGUE	D386	D385	LOUISE	1	D384	Will the prom pictures work?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	414	L277	S6	DIALOGUE	D387	D386	MADELINE	0	D385	How are his friends?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	415	L278	S6	DIALOGUE	D388	D387	LOUISE	1	D386	Yes.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	416	L278	S6	DIALOGUE	D389	D388	LOUISE	1	D387	Is there spin-off potential?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	417		S6	ACTION	A27	A27				[Paris walks in]
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	418	L278	S6	DIALOGUE	D390	D389	LOUISE	1	D388	Whoops.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	419	L279	S6	DIALOGUE	D391	D390	MADELINE	0	D389	Bye.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	420	L280	S6	DIALOGUE	D392	D391	PARIS	3	T33	Okay, everyone, gather around.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	421	L280	S6	DIALOGUE	D393	D392	PARIS	3	D391	I have in my hand the 2002 Franklin Yearbook photos.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	422	L280	S6	DIALOGUE	D394	D393	PARIS	3	D392	I got copies for everyone, so let’s leave the Barney’s clearance sale reenactment for another day, shall we?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	423	L280	S6	DIALOGUE	D395	D394	PARIS	3	D393	And, please take note of the fact that the idea of posing under the new school banner was a major, major success.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	424	L281	S6	DIALOGUE	D396	D395	RORY	2	T34	Um, Paris.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	425	L282	S6	DIALOGUE	D397	D396	PARIS	3	D395	Yes?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	426	L283	S6	DIALOGUE	D398	D397	RORY	2	D396	I’m sneezing.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	427	L284	S6	DIALOGUE	D399	D398	PARIS	3	D397	What?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	428	L285	S6	DIALOGUE	D400	D399	RORY	2	D398	In the picture.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	429	L285	S6	DIALOGUE	D401	D400	RORY	2	D399	I’m sneezing and my head is turned.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	430	L286	S6	DIALOGUE	D402	D401	PARIS	3	D400	Oh,
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	431	L286	S6	DIALOGUE	D403	D402	PARIS	3	D401	yeah,
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	432	L286	S6	DIALOGUE	D404	D403	PARIS	3	D402	I noticed that, but every picture had something wrong with it
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	433	L286	S6	DIALOGUE	D405	D404	PARIS	3	D403	and I had to pick the one that was the best for the largest number of people.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	434	L287	S6	DIALOGUE	D406	D405	RORY	2	D404	We took ninety pictures.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	435	L288	S6	DIALOGUE	D407	D406	PARIS	3	D405	What’s your point?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	436	L289	S6	DIALOGUE	D408	D407	RORY	2	D406	My point is in ninety tries, there wasn’t one other picture that was good for the group and didn’t have me looking like I’m in Cirque du Soleil.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	437	L290	S6	DIALOGUE	D409	D408	PARIS	3	D407	Sorry.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	438	L290	S6	DIALOGUE	D410	D409	PARIS	3	D408	Life can play some cruel tricks sometimes.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	439	L291	S6	DIALOGUE	D411	D410	RORY	2	D409	Life had a little help from the Gellar camp this time.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	440		S6	ACTION	A28	A28				[cell phone rings]
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	441	L291	S6	DIALOGUE	D412	D411	RORY	2	D410	We are not done.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	442		S6	ACTION	A29	A29				[answers phone]
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	443	L291	S6	DIALOGUE	D413	D412	RORY	2	T35	Hello?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	444	L292	S6	DIALOGUE	D414	D413	MAUREEN	4	D412	Rory, hi, listen.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	445	L292	S6	DIALOGUE	D415	D414	MAUREEN	4	D413	I just got the call and  hold on a sec.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	446	L292	S6	DIALOGUE	D416	D415	MAUREEN	4	D414	I’ll call him back.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	447	L292	S6	DIALOGUE	D417	D416	MAUREEN	4	D415	I’m back, sorry.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	448	L292	S6	DIALOGUE	D418	D417	MAUREEN	4	D416	Where was I?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	449	L293	S6	DIALOGUE	D419	D418	RORY	2	D417	Who is this?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	450	L294	S6	DIALOGUE	D420	D419	MAUREEN	4	D418	Maureen Rollins, Sherry’s friend.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	451	L295	S6	DIALOGUE	D421	D420	RORY	2	D419	Oh, yes, uh, right, Maureen, I’m sorry, I -
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	452	L296	S6	DIALOGUE	D422	D421	MAUREEN	4	D420	Don’t worry about it.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	453	L296	S6	DIALOGUE	D423	D422	MAUREEN	4	T36	Listen, I know the invitation said that we were all gathering at the c-section next week, but Sherry just went into labor.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	454	L297	S6	DIALOGUE	D424	D423	RORY	2	D422	What?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	455	L298	S6	DIALOGUE	D425	D424	MAUREEN	4	D423	She screwed up, she’s in labor, and she wanted me to call all the girls and beg them to get down to the hospital ASAP.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	456	L299	S6	DIALOGUE	D426	D425	RORY	2	D424	Oh.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	457	L300	S6	DIALOGUE	D427	D426	MAUREEN	4	D425	It’s a big screw-up.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	458	L301	S6	DIALOGUE	D428	D427	RORY	2	D426	I guess.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	459	L302	S6	DIALOGUE	D429	D428	MAUREEN	4	D427	Can you come?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	460	L303	S6	DIALOGUE	D430	D429	RORY	2	D428	Well. . .
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	461	L304	S6	DIALOGUE	D431	D430	MAUREEN	4	D429	You’re a child, right?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	462	L305	S6	DIALOGUE	D432	D431	RORY	2	D430	What?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	463	L306	S6	DIALOGUE	D433	D432	MAUREEN	4	D431	School?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	464	L307	S6	DIALOGUE	D434	D433	RORY	2	D432	Huh?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	465	L308	S6	DIALOGUE	D435	D434	MAUREEN	4	D433	School, you have school?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	466	L309	S6	DIALOGUE	D436	D435	RORY	2	D434	Uh, yes, I have school, but 
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	467	L310	S6	DIALOGUE	D437	D436	MAUREEN	4	D435	Is there anyway you could reschedule school just for today?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	468	L310	S6	DIALOGUE	D438	D437	MAUREEN	4	D436	She completely screwed up, but she’s still our Sherry.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	469	L311	S6	DIALOGUE	D439	D438	RORY	2	D437	Well, I’m actually done with school now.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	470	L311	S6	DIALOGUE	D440	D439	RORY	2	D438	I could grab a train and 
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	471	L312	S6	DIALOGUE	D441	D440	MAUREEN	4	D439	That would be the best, the absolute best.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	472	L312	S6	DIALOGUE	D442	D441	MAUREEN	4	D440	You are a great kid.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	473	L312	S6	DIALOGUE	D443	D442	MAUREEN	4	D441	She’s at Boston Memorial.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	474	L312	S6	DIALOGUE	D444	D443	MAUREEN	4	D442	I will meet you there.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	475	L312	S6	DIALOGUE	D445	D444	MAUREEN	4	T37	Listen, I have Graydon Carter on the other line.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	476	L313	S6	DIALOGUE	D446	D445	RORY	2	D444	Who?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	477	L314	S6	DIALOGUE	D447	D446	MAUREEN	4	D445	Graydon Carter.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	478	L314	S6	DIALOGUE	D448	D447	MAUREEN	4	D446	I have to go.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	479	L315	S6	DIALOGUE	D449	D448	RORY	2	D447	Okay, bye.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	480		S6	ACTION	A30	A30				FLASHBACK  ELDER GILMORE RESIDENCE
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	481		S6	ACTION	A31	A31				[A photographer is setting up in the living room]
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	482	L316	S6	DIALOGUE	D450	D449	EMILY	5	T38	Please make sure the light is very soft.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	483	L316	S6	DIALOGUE	D451	D450	EMILY	5	D449	I want a luminous quality.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	484	L317	S6	DIALOGUE	D452	D451	PHOTOGRAPHER	6	D450	I’m gonna have to see the young lady before I can set the final lighting.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	485	L318	S6	DIALOGUE	D453	D452	EMILY	5	D451	Yes, of course.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	486	L318	S6	DIALOGUE	D454	D453	EMILY	5	D452	Arletta, did you call Lorelai?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	487	L319	S6	DIALOGUE	D455	D454	ARLETTA	7	D453	Yes, ma’am.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	488	L319	S6	DIALOGUE	D456	D455	ARLETTA	7	D454	Twenty minutes ago.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	489	L320	S6	DIALOGUE	D457	D456	EMILY	5	D455	And what did she say?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	490	L321	S6	DIALOGUE	D458	D457	ARLETTA	7	D456	She said she was still getting dressed.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	491	L321	S6	DIALOGUE	D459	D458	ARLETTA	7	D457	Do you want me to go up there again?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	492	L322	S6	DIALOGUE	D460	D459	EMILY	5	D458	No, I’ll do it.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	493	L322	S6	DIALOGUE	D461	D460	EMILY	5	D459	I swear, you’d think that it was my coming out portrait, not hers, for the amount of concern she has about all of this.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	494	L322	S6	DIALOGUE	D462	D461	EMILY	5	D460	I’ll be right back.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	495	L322	S6	DIALOGUE	D463	D462	EMILY	5	D461	Don’t scratch the floor.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	496		S6	ACTION	A32	A32				[Cut to upstairs  Young Lorelai is in her bedroom trying to fit into her debutante gown.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	497		S6	ACTION	A33	A33				There’s a knock at the door.]
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	498	L323	S6	DIALOGUE	D464	D463	LORELAI	8	T39	Yeah?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	499	L324	S6	DIALOGUE	D465	D464	EMILY	5	D463	Lorelai, the photographer needs you downstairs.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	500	L325	S6	DIALOGUE	D466	D465	LORELAI	8	D464	I’ll be there in a sec.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	501	L326	S6	DIALOGUE	D467	D466	EMILY	5	D465	He needs you now, not in a sec.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	502	L327	S6	DIALOGUE	D468	D467	LORELAI	8	D466	Okay.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	503	L328	S6	DIALOGUE	D469	D468	EMILY	5	D467	I don’t hear you walking toward the door.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	504	L329	S6	DIALOGUE	D470	D469	LORELAI	8	D468	Mom, please.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	505	L330	S6	DIALOGUE	D471	D470	EMILY	5	D469	I’m coming in.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	506	L331	S6	DIALOGUE	D472	D471	LORELAI	8	D470	No.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	507		S6	ACTION	A34	A34				[Emily walks into the bedroom]
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	508	L332	S6	DIALOGUE	D473	D472	EMILY	5	D471	I don’t have time for your attitude young lady.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	509	L332	S6	DIALOGUE	D474	D473	EMILY	5	D472	This man is being paid by the hour.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	510	L332	S6	DIALOGUE	D475	D474	EMILY	5	D473	Why aren’t you dressed?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	511	L333	S6	DIALOGUE	D476	D475	LORELAI	8	D474	I just. .
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	512	L333	S6	DIALOGUE	D477	D476	LORELAI	8	D475	.I think the zipper’s too new or stiff or something.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	513	L334	S6	DIALOGUE	D478	D477	EMILY	5	D476	Turn around, I’ll do it.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	514		S6	ACTION	A35	A35				[tries to zip up the dress]
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	515	L334	S6	DIALOGUE	D479	D478	EMILY	5	T40	Oh my God.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	516	L335	S6	DIALOGUE	D480	D479	LORELAI	8	D478	What?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	517	L336	S6	DIALOGUE	D481	D480	EMILY	5	D479	It’s not the zipper, it’s the dress.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	518	L336	S6	DIALOGUE	D482	D481	EMILY	5	D480	It’s too small.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	519	L337	S6	DIALOGUE	D483	D482	LORELAI	8	D481	Are you sure?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	520	L338	S6	DIALOGUE	D484	D483	EMILY	5	D482	Of course I’m sure.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	521	L338	S6	DIALOGUE	D485	D484	EMILY	5	D483	It’s too small.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	522	L338	S6	DIALOGUE	D486	D485	EMILY	5	D484	How can it be too small?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	523	L338	S6	DIALOGUE	D487	D486	EMILY	5	D485	We had a fitting three months ago.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	524	L338	S6	DIALOGUE	D488	D487	EMILY	5	D486	Have you gained weight?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	525	L339	S6	DIALOGUE	D489	D488	LORELAI	8	D487	No.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	526	L340	S6	DIALOGUE	D490	D489	EMILY	5	D488	Hold your breath.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	527	L341	S6	DIALOGUE	D491	D490	LORELAI	8	D489	I am.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	528	L342	S6	DIALOGUE	D492	D491	EMILY	5	D490	Hold your breath!
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	529	L343	S6	DIALOGUE	D493	D492	LORELAI	8	D491	I am!
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	530	L344	S6	DIALOGUE	D494	D493	EMILY	5	D492	The only thing I can think of is the dressmaker must’ve written the measurements down wrong.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	531	L344	S6	DIALOGUE	D495	D494	EMILY	5	T41	Well, what are we supposed to do now?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	532	L344	S6	DIALOGUE	D496	D495	EMILY	5	D494	I certainly can’t take a picture of you like that.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	533	L345	S6	DIALOGUE	D497	D496	LORELAI	8	D495	Sorry.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	534	L346	S6	DIALOGUE	D498	D497	EMILY	5	D496	I’ll just have to have him come back next week.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	535	L346	S6	DIALOGUE	D499	D498	EMILY	5	D497	And I’m going to call that woman at the dress shop and give her a piece of my mind.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	536	L346	S6	DIALOGUE	D500	D499	EMILY	5	D498	My God, is everyone in the world completely incompetent?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	537	L346	S6	DIALOGUE	D501	D500	EMILY	5	D499	Put on your sweats and run around the block.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	538	L346	S6	DIALOGUE	D502	D501	EMILY	5	D500	You’re gonna fit into the next dress no matter what.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	539		S7	ACTION	A36	A36				[Lorelai walks in]
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	540	L347	S7	DIALOGUE	D503	D502	LORELAI	0	T42	Okay, I have five minutes to drink as much coffee as I can before I have to drive to Hartford to spend the evening with my mother alone and. .
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	541	L347	S7	DIALOGUE	D504	D503	LORELAI	0	D502	.who am I saying this to?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	542	L348	S7	DIALOGUE	D505	D504	KIRK	1	D503	I was listening.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	543	L349	S7	DIALOGUE	D506	D505	LORELAI	0	T43	Where’s Luke?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	544	L350	S7	DIALOGUE	D507	D506	KIRK	1	D505	I don’t know.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	545	L351	S7	DIALOGUE	D508	D507	LORELAI	0	D506	Well, is he here?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	546	L351	S7	DIALOGUE	D509	D508	LORELAI	0	D507	Is he coming back?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	547	L351	S7	DIALOGUE	D510	D509	LORELAI	0	D508	How fresh is that pot?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	548	L352	S7	DIALOGUE	D511	D510	KIRK	1	D509	I don’t know, I don’t know, it was sitting there when I got here but that’s only been a minute
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	549	L352	S7	DIALOGUE	D512	D511	KIRK	1	D510	so I don’t know.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	550		S7	ACTION	A37	A37				[Luke walks down from upstairs]
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	551	L353	S7	DIALOGUE	D513	D512	LORELAI	0	D511	Oh, thank God.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	552	L353	S7	DIALOGUE	D514	D513	LORELAI	0	D512	Hey, I desperately need a massive cup of coffee to go and 
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	553	L353	S7	DIALOGUE	D515	D514	LORELAI	0	T44	what happened to your face?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	554	L354	S7	DIALOGUE	D516	D515	LUKE	2	D514	What do you mean?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	555	L355	S7	DIALOGUE	D517	D516	LORELAI	0	D515	It’s visible.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	556	L356	S7	DIALOGUE	D518	D517	LUKE	2	D516	Oh, I shaved.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	557	L357	S7	DIALOGUE	D519	D518	LORELAI	0	D517	You going to the bank?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	558	L358	S7	DIALOGUE	D520	D519	LUKE	2	D518	No.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	559	L359	S7	DIALOGUE	D521	D520	LORELAI	0	D519	Funeral?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	560	L360	S7	DIALOGUE	D522	D521	LUKE	2	D520	No.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	561	L361	S7	DIALOGUE	D523	D522	LORELAI	0	D521	Drag club?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	562	L362	S7	DIALOGUE	D524	D523	LUKE	2	D522	Let’s get you your coffee, shall we?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	563	L363	S7	DIALOGUE	D525	D524	LORELAI	0	D523	Hey, isn’t that the sweater that 
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	564	L364	S7	DIALOGUE	D526	D525	LUKE	2	D524	Yes, it is.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	565	L365	S7	DIALOGUE	D527	D526	LORELAI	0	D525	You look nice.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	566	L366	S7	DIALOGUE	D528	D527	LUKE	2	D526	Thank you.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	567	L367	S7	DIALOGUE	D529	D528	LORELAI	0	D527	What’s the occasion?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	568	L368	S7	DIALOGUE	D530	D529	LUKE	2	D528	Oh, well 
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	569		S7	ACTION	A38	A38				[Nicole walks into the diner]
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	570	L369	S7	DIALOGUE	D531	D530	NICOLE	3	T45	Hi.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	571	L370	S7	DIALOGUE	D532	D531	LUKE	2	D530	Hi.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	572	L371	S7	DIALOGUE	D533	D532	LORELAI	0	D531	Oh, it’s a girl.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	573	L371	S7	DIALOGUE	D534	D533	LORELAI	0	D532	It’s a. . .
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	574	L372	S7	DIALOGUE	D535	D534	LUKE	2	D533	Nicole, this is Lorelai.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	575	L373	S7	DIALOGUE	D536	D535	NICOLE	3	D534	Nice to meet you.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	576	L373	S7	DIALOGUE	D537	D536	NICOLE	3	D535	I’m Nicole Leahy.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	577	L374	S7	DIALOGUE	D538	D537	LORELAI	0	D536	Lorelai Gilmore.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	578	L375	S7	DIALOGUE	D539	D538	NICOLE	3	D537	Wow, you look nice.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	579	L376	S7	DIALOGUE	D540	D539	LUKE	2	D538	Yeah, you, too.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	580	L377	S7	DIALOGUE	D541	D540	NICOLE	3	D539	So, you ready or should I sit down?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	581	L378	S7	DIALOGUE	D542	D541	LUKE	2	D540	No, let’s go, I’m ready.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	582	L379	S7	DIALOGUE	D543	D542	NICOLE	3	D541	Okay.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	583		S7	ACTION	A39	A39				[her cell phone rings]
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	584	L379	S7	DIALOGUE	D544	D543	NICOLE	3	T46	Oh, I’m sorry.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	585	L379	S7	DIALOGUE	D545	D544	NICOLE	3	D543	I’ll just 
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	586	L380	S7	DIALOGUE	D546	D545	LORELAI	0	T47	Oh, hey, hey Luke. . .
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	587	L381	S7	DIALOGUE	D547	D546	LUKE	2	D545	She’s a lawyer.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	588	L382	S7	DIALOGUE	D548	D547	LORELAI	0	D546	So what?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	589	L382	S7	DIALOGUE	D549	D548	LORELAI	0	D547	Luke!
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	590	L383	S7	DIALOGUE	D550	D549	LUKE	2	D548	Shh!
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	591	L384	S7	DIALOGUE	D551	D550	NICOLE	3	D544	Hello?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	592	L384	S7	DIALOGUE	D552	D551	NICOLE	3	D550	Yes.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	593	L384	S7	DIALOGUE	D553	D552	NICOLE	3	D551	No, I’m sorry, Monday’s not gonna work, it’ll have to be Tuesday.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	594	L384	S7	DIALOGUE	D554	D553	NICOLE	3	D552	Yes, well, your client breaking a contract is fairly annoying also, but we’re all dealing with that.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	595	L384	S7	DIALOGUE	D555	D554	NICOLE	3	D553	Terrific to hear.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	596	L384	S7	DIALOGUE	D556	D555	NICOLE	3	D554	Bye Michael.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	597		S7	ACTION	A40	A40				[hangs up]
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	598	L384	S7	DIALOGUE	D557	D556	NICOLE	3	D545	Sorry.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	599	L384	S7	DIALOGUE	D558	D557	NICOLE	3	D556	The phone is going off now.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	600	L385	S7	DIALOGUE	D559	D558	LUKE	2	D557	It’s okay.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	601	L385	S7	DIALOGUE	D560	D559	LUKE	2	D558	Make as many calls as you want.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	602	L386	S7	DIALOGUE	D561	D560	NICOLE	3	D559	Nice meeting you.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	603	L387	S7	DIALOGUE	D562	D561	LORELAI	0	D560	You, too.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	604		S8	ACTION	A41	A41				[Rory steps off the elevator and walks up to a woman]
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	605		S8	ACTION	A42	A42				[on phone]
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	606	L388	S8	DIALOGUE	D563	D562	MAUREEN	0	T48	As soon as I can.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	607	L388	S8	DIALOGUE	D564	D563	MAUREEN	0	D562	All right, bye.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	608	L389	S8	DIALOGUE	D565	D564	RORY	1	T49	Maureen?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	609	L390	S8	DIALOGUE	D566	D565	MAUREEN	0	D564	Yes?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	610	L391	S8	DIALOGUE	D567	D566	RORY	1	D565	I’m Rory.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	611	L391	S8	DIALOGUE	D568	D567	RORY	1	D566	I’m Christopher’s daughter.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	612	L391	S8	DIALOGUE	D569	D568	RORY	1	D567	You called me to come down.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	613	L392	S8	DIALOGUE	D570	D569	MAUREEN	0	D568	Rory, yes, sweetie, thank God you’re here.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	614	L392	S8	DIALOGUE	D571	D570	MAUREEN	0	D569	Sherry’s gonna be so happy to see you.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	615	L392	S8	DIALOGUE	D572	D571	MAUREEN	0	D570	She’s a basketcase.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	616	L392	S8	DIALOGUE	D573	D572	MAUREEN	0	D571	Well, who wouldn’t be, right?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	617	L393	S8	DIALOGUE	D574	D573	RORY	1	D572	Where’s everyone else?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	618	L394	S8	DIALOGUE	D575	D574	MAUREEN	0	D573	Oh, they’re working.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	619	L395	S8	DIALOGUE	D576	D575	RORY	1	D574	What?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	620	L396	S8	DIALOGUE	D577	D576	MAUREEN	0	D575	Well, we had all planned on next week, but Sherry screwed up, so what can you do?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	621	L396	S8	DIALOGUE	D578	D577	MAUREEN	0	D576	Thank God you’re here.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	622	L396	S8	DIALOGUE	D579	D578	MAUREEN	0	D577	She’ll be thrilled.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	623	L396	S8	DIALOGUE	D580	D579	MAUREEN	0	D578	She’s feeling a little abandoned.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	624	L396	S8	DIALOGUE	D581	D580	MAUREEN	0	D579	Now, she’s right in there.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	625	L396	S8	DIALOGUE	D582	D581	MAUREEN	0	D580	Do not mention how fat she is.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	626	L396	S8	DIALOGUE	D583	D582	MAUREEN	0	D581	For some reason, she’s extremely sensitive about that today.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	627	L396	S8	DIALOGUE	D584	D583	MAUREEN	0	D582	Okay, kiss.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	628	L396	S8	DIALOGUE	D585	D584	MAUREEN	0	D583	I’ll call you later to find out how everything’s going.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	629	L397	S8	DIALOGUE	D586	D585	RORY	1	T50	Wait, where are you going?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	630	L398	S8	DIALOGUE	D587	D586	MAUREEN	0	D585	I’ve gotta get back to work.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	631	L398	S8	DIALOGUE	D588	D587	MAUREEN	0	D586	I’m swamped today.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	632	L399	S8	DIALOGUE	D589	D588	RORY	1	D587	You’re leaving me here alone?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	633	L400	S8	DIALOGUE	D590	D589	MAUREEN	0	D588	Believe me, I would love to stay hon  impossible.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	634	L400	S8	DIALOGUE	D591	D590	MAUREEN	0	D589	What can I say?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	635	L400	S8	DIALOGUE	D592	D591	MAUREEN	0	D590	Sherry screwed up.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	636	L400	S8	DIALOGUE	D593	D592	MAUREEN	0	D591	Anyhow, you’ll be fine.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	637	L400	S8	DIALOGUE	D594	D593	MAUREEN	0	D592	If you need anything, call.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	638	L401	S8	DIALOGUE	D595	D594	RORY	1	D593	I don’t have your number.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	639	L402	S8	DIALOGUE	D596	D595	MAUREEN	0	D594	Sherry’s got it.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	640		S8	ACTION	A43	A43				[walks away]
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	641		S8	ACTION	A44	A44				[Rory walks into Sherry’s room]
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	642	L403	S8	DIALOGUE	D597	D596	RORY	1	T51	Sherry?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	643	L403	S8	DIALOGUE	D598	D597	RORY	1	D596	It’s Rory.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	644	L404	S8	DIALOGUE	D599	D598	SHERRY	2	D597	Rory?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	645	L404	S8	DIALOGUE	D600	D599	SHERRY	2	D598	Oh my God, I’m so glad you’re here.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	646	L405	S8	DIALOGUE	D601	D600	RORY	1	D599	How are you?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	647	L406	S8	DIALOGUE	D602	D601	SHERRY	2	D600	This wasn’t supposed to happen now.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	648	L407	S8	DIALOGUE	D603	D602	RORY	1	D601	I know.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	649	L408	S8	DIALOGUE	D604	D603	SHERRY	2	D602	Christopher’s out of town.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	650	L408	S8	DIALOGUE	D605	D604	SHERRY	2	D603	I think Maureen called him and left a message but it doesn’t matter because he’s not here.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	651	L408	S8	DIALOGUE	D606	D605	SHERRY	2	T52	Where’s Maureen?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	652	L409	S8	DIALOGUE	D607	D606	RORY	1	D605	Oh, well, she had to go back to work, but she said she’d call later.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	653	L410	S8	DIALOGUE	D608	D607	SHERRY	2	D606	She’s at work?
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	654	L411	S8	DIALOGUE	D609	D608	RORY	1	D607	Yes.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	655	L412	S8	DIALOGUE	D610	D609	SHERRY	2	D608	I’m lying in a bed.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	656	L412	S8	DIALOGUE	D611	D610	SHERRY	2	D609	God knows what’s gonna happen.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	657	L413	S8	DIALOGUE	D612	D611	RORY	1	D610	Well, you’re going to have a baby.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	658	L414	S8	DIALOGUE	D613	D612	SHERRY	2	D611	And she goes back to work.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	659	L414	S8	DIALOGUE	D614	D613	SHERRY	2	D612	I would love to go back to work, but I can’t because I have to stay here.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	660	L415	S8	DIALOGUE	D615	D614	RORY	1	D613	Well, yeah, because you’re going to have a baby.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	661	L416	S8	DIALOGUE	D616	D615	SHERRY	2	D614	She’s not here.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	662	L416	S8	DIALOGUE	D617	D616	SHERRY	2	D615	None of my friends are here.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	663	L416	S8	DIALOGUE	D618	D617	SHERRY	2	D616	Christopher isn’t here.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	664	L416	S8	DIALOGUE	D619	D618	SHERRY	2	D617	No one is here.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	665	L416	S8	DIALOGUE	D620	D619	SHERRY	2	D618	No one but you.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	666	L416	S8	DIALOGUE	D621	D620	SHERRY	2	D619	Thank God you’re here, Rory.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	667	L416	S8	DIALOGUE	D622	D621	SHERRY	2	D620	I don’t think that I could do this by myself because this wasn’t supposed to happen until next week.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	668	L416	S8	DIALOGUE	D623	D622	SHERRY	2	D621	I wrote it down.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	669	L416	S8	DIALOGUE	D624	D623	SHERRY	2	D622	I wrote it down.
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	670	L416	S8	DIALOGUE	D625	D624	SHERRY	2	D623	I wrote it down!
+TVShowGuess	Gilmore_Girls_03x13.split_scenes.json	03x13 - Dear Emily And Richard	671	L417	S8	DIALOGUE	D626	D625	RORY	1	D624	Boy, do you look thin.
